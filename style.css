@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 3px -4px 5px rgb(197, 54, 90);
+}
+.soloway{
+    text-align: center; 
+    text-shadow: 34px -5px 12px rgb(111, 211, 23);
+}
+.p2h{
+    text-align: center;  
+} 
+
+.vorobuy{
+    text-align: center; 
+    text-decoration: underline; 
+    text-shadow: 34px -5px 12px rgb(98, 54, 199);
+}
